@@ -1,5 +1,4 @@
-# Project Name
-
+# To Do REST API 
 This is a basic Rest API server made in java, is a CRUD of a tasks (to do) using HTTServer and SQLite for manage the connections and the database. This was done by Jose Manuel Fuentes Mojica.
 
 ## Installation
