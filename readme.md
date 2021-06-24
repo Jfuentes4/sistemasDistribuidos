@@ -14,11 +14,11 @@ then you can run the server with:
 ## Usage
 The API can respond to the following endpoints:
 
-```GET localhost:3000/api/v1/todos```
-```GET localhost:3000/api/v1/todos/:id```
-```POST localhost:3000/api/v1/todos```
-```PUT localhost:3000/api/v1/todos/:id```
-```DELETE localhost:3000/api/v1/todos/:id```
+```GET localhost:8000/api/v1/todos```
+```GET localhost:8000/api/v1/todos/:id```
+```POST localhost:8000/api/v1/todos```
+```PUT localhost:8000/api/v1/todos/:id```
+```DELETE localhost:8000/api/v1/todos/:id```
 
 Responds with the following JSON:
 
