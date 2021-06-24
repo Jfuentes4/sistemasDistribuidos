@@ -1,4 +1,7 @@
-/home/ismael/dev/rest-server/src/main/java/mx/ucol/handlers/V1Handler.java
-/home/ismael/dev/rest-server/src/main/java/mx/ucol/models/Todo.java
-/home/ismael/dev/rest-server/src/main/java/mx/ucol/handlers/RootHandler.java
-/home/ismael/dev/rest-server/src/main/java/mx/ucol/App.java
+D:\Uni\sistemasDistribuidos\rest-server\src\main\java\mx\ucol\models\Todo.java
+D:\Uni\sistemasDistribuidos\rest-server\src\main\java\mx\ucol\App.java
+D:\Uni\sistemasDistribuidos\rest-server\src\main\java\mx\ucol\helpers\JSON.java
+D:\Uni\sistemasDistribuidos\rest-server\src\main\java\mx\ucol\models\Todos.java
+D:\Uni\sistemasDistribuidos\rest-server\src\main\java\mx\ucol\handlers\TodosHandler.java
+D:\Uni\sistemasDistribuidos\rest-server\src\main\java\mx\ucol\handlers\RootHandler.java
+D:\Uni\sistemasDistribuidos\rest-server\src\main\java\mx\ucol\helpers\DBConnection.java

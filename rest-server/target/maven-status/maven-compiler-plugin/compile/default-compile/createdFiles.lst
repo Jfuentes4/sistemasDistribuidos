@@ -1,1 +1,7 @@
-mx/ucol/RootHandler.class
+mx\ucol\helpers\JSON.class
+mx\ucol\App.class
+mx\ucol\helpers\DBConnection.class
+mx\ucol\handlers\TodosHandler.class
+mx\ucol\handlers\RootHandler.class
+mx\ucol\models\Todo.class
+mx\ucol\models\Todos.class
